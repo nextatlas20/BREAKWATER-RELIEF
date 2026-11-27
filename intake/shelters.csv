@@ -1,0 +1,6 @@
+sequence,shelter_id,name,district,status
+10,SH-101,North Quay Library,Harbor,OPEN
+20,SH-204,Alder School,Midtown,OPEN
+30,SH-330,Hill Chapel,Uplands,CLOSED
+40,SH-415,Rail Hall,Eastbank,OPEN
+50,SH-502,Moss Center,Southbank,OPEN
